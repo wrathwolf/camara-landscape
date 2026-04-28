@@ -17,6 +17,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/accenture
           - item:
+            name: AT&T Services, Inc.
+            homepage_url: https://att.com/
+            logo: at_t_services_inc.svg
+            description: Founded in 1983 and headquartered in Dallas, TX, AT&T Corp. is a business services communications provider, offering a variety of global communications services to customers, including large domestic and multinational businesses, small and medium-sized businesses and government agencies. The Company operates a telecommunications networks in the United States and, through the Global Network Services, provides an array of services, and customized solutions.
+            crunchbase: https://www.crunchbase.com/organization/at-t
+            twitter: https://twitter.com/ATT
+            extra:
+              linkedin_url: https://www.linkedin.com/company/att
+          - item:
             name: Deutsche Telekom AG
             homepage_url: https://telekom.com/
             logo: deutsche_telekom_ag.svg
@@ -35,8 +44,6 @@ landscape:
               - Solution Provider / API Exposure Platform Solution Providers
               - Solution Provider / Network Capability Solution Providers
               - Solution Provider / Transformation Function Solution Providers
-            organization:
-              name: Ericsson AB
           - item:
             name: Nokia Corporation
             homepage_url: https://nokia.com/
@@ -102,7 +109,7 @@ landscape:
             name: Vodafone Group Plc.
             homepage_url: https://vodafone.com/
             logo: vodafone_group_plc.svg
-            description: Vodafone is one of the worlds largest telecommunications companies and provides a range of services including voice, messaging, data and fixed communications. Vodafone has mobile operations in 26 countries, partners with mobile networks in 51 more, and fixed broadband operations in 17 markets. As of June 2016, Vodafone had 465 million mobile customers and 13.7 million fixed broadband customers. Vodafone Group plc /ˈvoʊdəfoʊn/ is a British multinational telecommunications company.
+            description: Vodafone Group Plc is a leading British multinational telecommunications company providing mobile, fixed-line, satellite, and IoT services to over 330 million customers across Europe and Africa. Headquartered in Newbury, UK, it specializes in 5G, consumer, and business solutions, alongside M-PESA financial services.
             second_path:
               - Operation / Operators
             crunchbase: https://www.crunchbase.com/organization/vodafone
@@ -118,8 +125,6 @@ landscape:
             logo: aduna_global_llc.svg
             second_path:
               - Operation / Hyperscalers, CPaaS Providers, Aggregators
-            organization:
-              name: Aduna Global LLC
           - item:
             name: Cable Television Laboratories Inc.
             homepage_url: https://cablelabs.com/
@@ -143,13 +148,20 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/spectrum
           - item:
+            name: HAYO TELECOM
+            homepage_url: https://hayo.net/
+            logo: hayo_telecom.svg
+            description: |-
+              Hayo is a global digital service provider that combines networking, 
+                technologies and digital solutions to deliver on-the-ground innovation. IoT 
+                & AI, Voice & Messaging, CPaaS & CCaaS, Security, National Mobile 
+                Registries and Digital Convergenc...
+          - item:
             name: KYXSTART
             homepage_url: https://kyxstart.com/
             logo: kyxstart.svg
             second_path:
               - Operation / API Customers
-            organization:
-              name: KYXSTART
           - item:
             name: Nearby Computing
             homepage_url: https://nearbycomputing.com/
@@ -157,8 +169,6 @@ landscape:
             description: 'Nearby Computing: Revolutionizing network management with cutting-edge automation for Telcos & Enterprises.'
             second_path:
               - Operation / API Customers
-            organization:
-              name: Nearby Computing
           - item:
             name: Persona Identities, Inc.
             homepage_url: https://withpersona.com/
@@ -166,16 +176,12 @@ landscape:
             description: Persona offers online ID verification services for businesses, simplifying identity management with configurable infrastructure for KYC, AML, and fraud detection. Automate processes, fight fraud, and build trust globally with Persona's secure solutions.
             second_path:
               - Operation / API Customers
-            organization:
-              name: Persona Identities, Inc.
           - item:
             name: Sent, Inc.
             homepage_url: https://sent.dm/
             logo: sent_inc.svg
             second_path:
               - Operation / Hyperscalers, CPaaS Providers, Aggregators
-            organization:
-              name: Sent, Inc.
           - item:
             name: Shabodi
             homepage_url: https://shabodi.com/
@@ -185,9 +191,6 @@ landscape:
               - Operation / Hyperscalers, CPaaS Providers, Aggregators
             extra:
               linkedin_url: https://www.linkedin.com/company/shabodi
-            organization:
-              name: Shabodi
-              linkedin: https://www.linkedin.com/company/shabodi
       - subcategory:
         name: Associate
         items:
@@ -212,9 +215,15 @@ landscape:
             twitter: https://twitter.com/OMASpecWorks
             extra:
               linkedin_url: https://www.linkedin.com/company/open-mobile-alliance
-            organization:
-              name: Open Mobile Alliance (OMA)
-              linkedin: https://www.linkedin.com/company/open-mobile-alliance
+          - item:
+            name: TNO, the Netherlands Organisation for Applied Scientific Research
+            homepage_url: https://tno.nl/
+            logo: tno_the_netherlands_organisation_for_applied_scientific_research.svg
+            description: TNO connects people and knowledge to create innovations that boost the competitive strength of industry and the well-being of society in a sustainable way.
+            crunchbase: https://www.crunchbase.com/organization/tno
+            twitter: https://twitter.com/TNO_nieuws
+            extra:
+              linkedin_url: https://www.linkedin.com/company/tno
           - item:
             name: UFRN
             homepage_url: https://ufrn.br/
@@ -222,8 +231,6 @@ landscape:
             description: The Federal University of Rio Grande do Norte (UFRN) is a prestigious public Brazilian university located in Natal, Brazil. Established in 1960, UFRN offers a wide range of undergraduate and graduate programs across 60 departments. Known for its resear...
             second_path:
               - Planning / Research Partners
-            organization:
-              name: UFRN
           - item:
             name: University of California, Berkeley
             homepage_url: https://berkeley.edu/
